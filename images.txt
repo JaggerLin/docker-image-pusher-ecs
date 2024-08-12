@@ -1,1 +1,3 @@
-gui66497/kafka_eagle
+bitnami/kafka:3.2.3
+zookeeper:3.8.1
+rottenleaf/kafka-eagle:2.0.3
