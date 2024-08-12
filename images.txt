@@ -1,3 +1,2 @@
-slpcat/canal-adapter:v1.1.6
 bladex/sentinel-dashboard:1.8.7
 nacos-server:v2.2.3
