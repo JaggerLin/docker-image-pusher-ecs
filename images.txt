@@ -1,2 +1,5 @@
-apache/skywalking-oap-server:9.3.0
-alpine:3.20.1
+apache/skywalking-ui:9.3.0
+apache/skywalking-cli:9.3.0
+apache/skywalking-rover:9.3.0
+apache/skywalking-base:9.3.0
+apache/skywalking-java-agent:9.3.0
