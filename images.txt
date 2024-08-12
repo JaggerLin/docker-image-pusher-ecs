@@ -1,2 +1,2 @@
-wurstmeister/kafka
-tomcat:8
+portainer/portainer:latest
+xuxueli/xxl-job-admin:2.4.0
