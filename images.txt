@@ -1,5 +1,2 @@
-nacos/nacos-server:v2.0.3
-apache/rocketmq:5.1.0
-bitnami/prometheus:2.47.2
-grafana/grafana:10.2.0
-vulhub/xxl-job
+apache/skywalking-oap-server:9.3.0
+alpine:3.20.1
