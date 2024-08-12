@@ -1,2 +1,4 @@
-sheepkiller/kafka-manager
-nickzurich/efak:latest
+canal/canal-server:v1.1.7
+canal/canal-adapter:v1.1.6
+canal/canal-server:v1.1.3
+canal/canal-adapter:v1.1.3
