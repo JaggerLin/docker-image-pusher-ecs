@@ -1,2 +1,2 @@
-zookeeper:3.8.4
-wurstmeister/kafka:2.7.2
+sheepkiller/kafka-manager
+nickzurich/efak:latest
