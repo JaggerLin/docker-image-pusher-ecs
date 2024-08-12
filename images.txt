@@ -1,2 +1,2 @@
-portainer/portainer:latest
-xuxueli/xxl-job-admin:2.4.0
+elasticsearch:7.6.2
+kibana:7.6.2
