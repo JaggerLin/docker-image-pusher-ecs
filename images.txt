@@ -1,4 +1,2 @@
-slpcat/canal-adapter:v1.1.5
-slpcat/canal-adapter:v1.1.7
 canal/canal-server:v1.1.5
 docker.elastic.co/logstash/logstash:7.14.2
