@@ -1,3 +1,1 @@
-registry:latest
-portainer:latest
 jenkins/jenkins:2.439
